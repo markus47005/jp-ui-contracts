@@ -2,3 +2,4 @@
 
 Notes and usage details for jp-ui-contracts.
 - clarify the setup steps
+- link the usage section
