@@ -10,3 +10,4 @@ Notes and usage details for jp-ui-contracts.
 - link the usage section
 - fix a small wording issue
 - clarify the setup steps
+- add a note about the defaults
