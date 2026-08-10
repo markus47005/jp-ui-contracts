@@ -13,3 +13,4 @@ Notes and usage details for jp-ui-contracts.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- fix a small wording issue
